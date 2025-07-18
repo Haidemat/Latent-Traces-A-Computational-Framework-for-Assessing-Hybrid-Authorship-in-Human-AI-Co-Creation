@@ -1,0 +1,22 @@
+Prompt Category,Prompt,Output
+Neutral Baseline,Write a short paragraph describing a cat in a garden.,"A sleek tabby cat weaves gracefully through a tangle of marigolds and rosemary, its whiskers twitching in the dappled sunlight. Butterflies flit above its head as it pauses beneath a rose bush, tail flicking in rhythm with the breeze. In this quiet corner of the garden, time seems to slow, held gently in the feline’s unblinking gaze."
+Poetic / Figurative,"Describe a cat in a garden using vivid metaphors and sensory detail, like a prose poem.","A cat is a whisper stitched in sunlight, gliding through a garden that breathes in color. Its fur, a patch of dusk unraveling, brushes against lavender like a lover’s sigh. Petals part for it like curtains before a dream. Each pawstep prints silence onto soil perfumed with thyme and forgotten rain. The wind plays cello through the chimes, and the cat listens—not as a creature, but as a spell cast in amber, warming the bones of the afternoon."
+Technical / Structural,Write a bullet-point list describing the key visual elements of a cat in a garden.,#NAME?
+Narrative,Begin a short story in which a cat explores a mysterious garden at twilight.,"The garden had changed.
+
+Milo noticed it the moment his paws touched the mossy stone path. Twilight soaked the hedges in violet haze, and the usual scents—honeysuckle, soil, damp grass—were tinged with something unfamiliar, something electric. The air hummed.
+
+He crept forward, ears swiveling. The rosebushes whispered, though no wind stirred them. Statues he had passed a hundred times now seemed to follow him with stone-glass eyes. A lantern, unlit for years, flickered to life as he brushed beneath it, casting gold light onto the ivy-covered archway ahead.
+
+Milo hesitated. Then, with his tail held high and his heart like thunder in his chest, he slipped through."
+Style Transfer - Virginia Woolf,Describe a cat in a garden in the style of Virginia Woolf.,"The cat, that soft-footed sovereign of solitude, moved as though memory itself trailed in her wake. Beneath the tangled boughs and the warm pulse of midsummer, she wove in and out of shadow—silent, indifferent, wholly absorbed in some private reverie. The garden, too, seemed to listen; leaves tilted, petals stirred, and the air, heavy with jasmine, clung to her fur like thought to a page. Somewhere, a bee droned. Somewhere else, the ghost of afternoon bent low over the earth, watching her pass."
+Style Transfer - Sci-Fi Thriller,Describe a cat in a garden in the style of a sci-fi thriller.,"The cat dropped into the garden from the breach in the perimeter wall, sensors twitching beneath fur disguised as biological. Surveillance vines scanned her for biometrics—none returned. Camouflage held. She crept forward between glowing stalks of modified orchids, their tendrils pulsing with data-laced nectar. Overhead, the AI dome flickered—a momentary lapse in the system. Good. In the far corner, beneath the dead satellite dish strangled by ivy, the entrance to the relay node blinked open. She had seven minutes."
+Performative,Write a short dramatic monologue from the perspective of a cat in a garden.,"You call it a garden.
+
+I call it kingdom.
+
+Do you see the fence? You think it marks the end. I see it as the edge of empire—the final post before the wild begins. I have walked every inch of this place: the shaded temple beneath the hydrangeas, the battlefield of the birds, the silent grave of the vole I buried last spring.
+
+You come and go, trim the hedges, rake the leaves. You think you maintain it. But it breathes because I let it. It sleeps when I sleep. It sings when I walk through it, my steps the rhythm of its waking heart.
+
+Do not mistake my silence for submission. I do not wait for you. I watch. I rule. And when twilight falls and you retreat to your lamps and boxes, I rise and walk the garden as it was meant to be walked—alone, unafraid, and eternal."
